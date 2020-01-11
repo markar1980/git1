@@ -13,6 +13,7 @@ body
     padding: 0;
     margin: 0;
     counter-reset: card;
+    display: flex;
 }
 
 .card
